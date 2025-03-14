@@ -2,9 +2,9 @@
 Network Routing and Switching Assessment 1
 ## Objectives
 In this assessment, you will configure the following:
-• Best practice configuration and secure management
-• VLAN’s and Trunking
-• Layer 3 Switching and Inter-VLAN routing
+- • Best practice configuration and secure management
+- • VLAN’s and Trunking
+- • Layer 3 Switching and Inter-VLAN routing
 ## Part 1: Basic Device Configuration and SSH Management
 ## Step 1 – Switch configuration
 Hint: Leave the configuration of switch passwords and SSH to the end. Configure
